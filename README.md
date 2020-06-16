@@ -1,6 +1,6 @@
 #Rajesh Gupta 
 
-# ChatBot with Python and Google Search
+# Simple ChatBot with Python and Google Search
 
  Simple ChatBot with Python that uses Google Search as its brain. 
 
